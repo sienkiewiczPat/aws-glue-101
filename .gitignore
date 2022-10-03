@@ -1,2 +1,8 @@
 *.class
 *.log
+spark-3.1.1-amzn-0-bin-3.2.1-amzn-3/*
+
+# intellij
+.bsp
+.idea
+target/
